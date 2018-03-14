@@ -1,0 +1,75 @@
+awake|awoke|awoken|budzić się
+bear|bore|borne|rodzić, nosić
+become|became|become|stawać się
+begin|began|begun|rozpoczynać
+bend|bent|bent|schylać się
+bet|bet|bet|zakladać się
+bite|bit|bitten|gryźć
+blow|blew|blown|dmuchać
+breed|bred|bred|hodować
+build|built|built|budować
+burst|burst|burst|rozrywać
+catch|caught|caught|łapać
+cost|cost|cost|kosztować
+creep|crept|crept|skradać się
+do|did|done|robić
+dream|dreamt|dreamt|śnić
+drive|drove|driven|jechać
+eat|ate|eaten|jeść
+feed|fed|fed|karmić
+flee|fled|fled|uciekać
+fly|flew|flown|lecieć
+forecast|forecast|forecast|przewidywać
+forgive|forgave|forgiven|wybaczać
+freeze|froze|frozen|mrozić
+give|gave|given|dawać
+grind|ground|ground|kruszyć
+hang|hanged|hanged|wieszać
+hear|heard|heard|słyszeć
+hit|hit|hit|uderzać
+hurt|hurt|hurt|krzywdzić
+kneel|knelt|knelt|klękać
+lay|laid|laid|kłaść
+lean|leant|leant|opierać
+leave|left|left|opuszczać
+let|let|let|pozwalać
+make|made|made|robić
+mean|meant|meant|oznaczać
+mistake|mistook|mistaken|pomylić
+put|put|put|kłaść, wsadzić
+read|read|read|czytać
+ride|rode|ridden|jeździć
+rise|rose|risen|rosnać
+saw|sawed|sawn|piłować
+see|saw|seen|widzieć
+sell|sold|sold|sprzedawać
+set|set|set|ustawiać
+shake|shook|shaken|trząść
+shear|sheared|shorn|strzyc
+shine|shone|shone|świecić, błyszczeć
+show|showed|shown|pokazywać
+shut|shut|shut|zamykać
+sit|sat|sat|siadać
+sleep|slept|slept|spać
+sling|slung|slung|zawieszać
+smell|smelt|smelt|pachnieć
+speak|spoke|spoken|mówić
+spell|spelt|spelt|przeliterować
+spill|spilt|spilt|rozlewać
+spit|spat|spat|pluć
+spread|spread|spread|rozkladać, rozsmarować
+stand|stood|stood|stać
+stick|stuck|stuck|przyklejać
+stink|stank|stunk|śmierdzieć
+strike|struck|struck|strajkować, uderzać
+swear|swore|sworn|klnąć
+swell|swelled|swollen|puchnąć
+swing|swung|swung|huśtać się, machać
+teach|taught|taught|uczyć
+tell|told|told|mówić, powiedzieć
+throw|threw|thrown|rzucać
+tread|trod|trodden|stąpać
+wear|wore|worn|ubierać
+weave|wove|woven|tkać
+win|won|won|wygrać
+wring|wrung|wrung|wyciskać, ukręcić
