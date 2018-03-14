@@ -1,0 +1,6 @@
+TITLE|Third Girl
+YEAR|1966
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Falling/Being Pushed,Stabbing

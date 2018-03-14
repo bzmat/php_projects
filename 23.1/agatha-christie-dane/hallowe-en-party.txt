@@ -1,0 +1,6 @@
+TITLE|Hallowe'en Party
+YEAR|1969
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Drowning,Stabbing,Strangling

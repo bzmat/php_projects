@@ -1,0 +1,6 @@
+TITLE|The Mystery of the Blue Train
+YEAR|1928
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Strangling

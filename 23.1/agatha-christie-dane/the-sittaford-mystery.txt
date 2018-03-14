@@ -1,0 +1,6 @@
+TITLE|The Sittaford Mystery
+YEAR|1931
+TYPE|Novel
+BEST|no
+DETECTIVE|
+METHOD|Blow to the Head

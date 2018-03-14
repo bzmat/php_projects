@@ -1,0 +1,6 @@
+TITLE|The Pale Horse
+YEAR|1961
+TYPE|Novel
+BEST|no
+DETECTIVE|
+METHOD|Poison

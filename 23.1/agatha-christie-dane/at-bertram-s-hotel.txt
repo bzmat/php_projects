@@ -1,0 +1,6 @@
+TITLE|At Bertram's Hotel
+YEAR|1965
+TYPE|Novel
+BEST|no
+DETECTIVE|Miss Marple
+METHOD|Gunshot

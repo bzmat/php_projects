@@ -1,0 +1,6 @@
+TITLE|Poirot Investigates
+YEAR|1924
+TYPE|Stories
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|

@@ -1,0 +1,19 @@
+propel:
+  database:
+      connections:
+          names:
+              adapter: mysql
+              classname: Propel\Runtime\Connection\ConnectionWrapper
+              dsn: "mysql:host=localhost;dbname=names"
+              user: root  
+              password: root
+              attributes:
+  runtime:
+      defaultConnection: names
+      connections:
+          - names
+  generator:
+      defaultConnection: names
+      connections:
+          - names
+

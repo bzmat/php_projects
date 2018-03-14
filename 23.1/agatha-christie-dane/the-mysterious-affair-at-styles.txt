@@ -1,0 +1,6 @@
+TITLE|The Mysterious Affair at Styles
+YEAR|1920
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Poison

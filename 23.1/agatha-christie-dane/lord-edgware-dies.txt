@@ -1,0 +1,6 @@
+TITLE|Lord Edgware Dies
+YEAR|1933
+TYPE|Novel
+BEST|yes
+DETECTIVE|Hercule Poirot
+METHOD|Poison

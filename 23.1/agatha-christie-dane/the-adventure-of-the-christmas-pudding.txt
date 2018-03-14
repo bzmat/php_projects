@@ -1,0 +1,6 @@
+TITLE|The Adventure of the Christmas Pudding
+YEAR|1960
+TYPE|Stories
+BEST|no
+DETECTIVE|
+METHOD|

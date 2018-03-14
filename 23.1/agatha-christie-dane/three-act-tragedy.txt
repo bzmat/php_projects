@@ -1,0 +1,6 @@
+TITLE|Three-Act Tragedy
+YEAR|1934
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Poison

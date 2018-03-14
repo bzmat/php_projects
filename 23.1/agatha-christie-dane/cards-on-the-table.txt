@@ -1,0 +1,6 @@
+TITLE|Cards on the Table
+YEAR|1936
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Drowning,Gunshot,Poison,Stabbing

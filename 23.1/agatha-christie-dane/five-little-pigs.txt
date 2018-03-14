@@ -1,0 +1,6 @@
+TITLE|Five Little Pigs
+YEAR|1943
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Poison

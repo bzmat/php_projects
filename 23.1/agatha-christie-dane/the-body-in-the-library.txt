@@ -1,0 +1,6 @@
+TITLE|The Body in the Library
+YEAR|1942
+TYPE|Novel
+BEST|no
+DETECTIVE|Miss Marple
+METHOD|Immolation,Poison,Strangling

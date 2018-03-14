@@ -1,0 +1,6 @@
+TITLE|Death on the Nile
+YEAR|1937
+TYPE|Novel
+BEST|yes
+DETECTIVE|Hercule Poirot
+METHOD|Gunshot,Stabbing

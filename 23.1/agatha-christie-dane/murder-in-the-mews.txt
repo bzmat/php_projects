@@ -1,0 +1,6 @@
+TITLE|Murder in the Mews
+YEAR|1937
+TYPE|Stories
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|

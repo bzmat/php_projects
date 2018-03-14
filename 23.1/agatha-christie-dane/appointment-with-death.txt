@@ -1,0 +1,6 @@
+TITLE|Appointment With Death
+YEAR|1938
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Poison

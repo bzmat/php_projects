@@ -1,0 +1,6 @@
+TITLE|Murder on the Orient Express
+YEAR|1934
+TYPE|Novel
+BEST|yes
+DETECTIVE|Hercule Poirot
+METHOD|Stabbing

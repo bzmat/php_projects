@@ -1,0 +1,6 @@
+TITLE|The Moving Finger
+YEAR|1942
+TYPE|Novel
+BEST|yes
+DETECTIVE|Miss Marple
+METHOD|Blow to the Head,Poison

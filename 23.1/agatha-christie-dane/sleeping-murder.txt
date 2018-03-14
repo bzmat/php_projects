@@ -1,0 +1,6 @@
+TITLE|Sleeping Murder
+YEAR|1976
+TYPE|Novel
+BEST|no
+DETECTIVE|Miss Marple
+METHOD|Strangling

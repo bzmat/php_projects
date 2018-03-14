@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database name="names" defaultIdMethod="native">
+	<table name="name">
+		<column name="name_id" type="integer" primaryKey="true" required="true" autoIncrement="true" />
+		<column name="name" type="varchar" size="45" required="true" />
+	</table>	
+</database> 

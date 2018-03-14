@@ -1,0 +1,6 @@
+TITLE|The Murder at the Vicarage
+YEAR|1930
+TYPE|Novel
+BEST|yes
+DETECTIVE|Miss Marple
+METHOD|Gunshot

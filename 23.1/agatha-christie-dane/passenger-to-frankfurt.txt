@@ -1,0 +1,6 @@
+TITLE|Passenger to Frankfurt
+YEAR|1970
+TYPE|Novel
+BEST|no
+DETECTIVE|
+METHOD|Gunshot

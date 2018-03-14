@@ -1,0 +1,6 @@
+TITLE|Death in the Clouds
+YEAR|1935
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Poison

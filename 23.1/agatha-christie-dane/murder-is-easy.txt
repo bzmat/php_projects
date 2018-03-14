@@ -1,0 +1,6 @@
+TITLE|Murder Is Easy
+YEAR|1939
+TYPE|Novel
+BEST|no
+DETECTIVE|
+METHOD|Falling/Being Pushed,Poison

@@ -1,0 +1,6 @@
+TITLE|Cat Among the Pigeons
+YEAR|1959
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Blow to the Head,Gunshot

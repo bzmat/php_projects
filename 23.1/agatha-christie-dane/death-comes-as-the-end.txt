@@ -1,0 +1,6 @@
+TITLE|Death Comes As the End
+YEAR|1944
+TYPE|Novel
+BEST|no
+DETECTIVE|
+METHOD|Drowning,Falling/Being Pushed,Poison,Stabbing,Suffocation

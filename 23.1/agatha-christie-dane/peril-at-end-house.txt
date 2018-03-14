@@ -1,0 +1,6 @@
+TITLE|Peril at End House
+YEAR|1932
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Gunshot

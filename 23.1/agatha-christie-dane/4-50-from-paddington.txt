@@ -1,0 +1,6 @@
+TITLE|4.50 from Paddington
+YEAR|1957
+TYPE|Novel
+BEST|no
+DETECTIVE|Miss Marple
+METHOD|Poison,Strangling

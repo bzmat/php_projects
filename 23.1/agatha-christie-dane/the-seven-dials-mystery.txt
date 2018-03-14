@@ -1,0 +1,6 @@
+TITLE|The Seven Dials Mystery
+YEAR|1929
+TYPE|Novel
+BEST|no
+DETECTIVE|
+METHOD|Gunshot,Poison

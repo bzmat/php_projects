@@ -1,0 +1,6 @@
+TITLE|The Murder of Roger Ackroyd
+YEAR|1926
+TYPE|Novel
+BEST|yes
+DETECTIVE|Hercule Poirot
+METHOD|Stabbing

@@ -1,0 +1,6 @@
+TITLE|Crooked House
+YEAR|1949
+TYPE|Novel
+BEST|yes
+DETECTIVE|
+METHOD|Poison

@@ -1,0 +1,6 @@
+TITLE|Poirot's Early Cases
+YEAR|1974
+TYPE|Stories
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|

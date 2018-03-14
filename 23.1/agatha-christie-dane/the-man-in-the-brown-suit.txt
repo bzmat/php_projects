@@ -1,0 +1,6 @@
+TITLE|The Man in the Brown Suit
+YEAR|1924
+TYPE|Novel
+BEST|no
+DETECTIVE|
+METHOD|Electrocution,Stabbing

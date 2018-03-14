@@ -1,0 +1,6 @@
+TITLE|A Pocket Full of Rye
+YEAR|1953
+TYPE|Novel
+BEST|yes
+DETECTIVE|Miss Marple
+METHOD|Poison,Strangling

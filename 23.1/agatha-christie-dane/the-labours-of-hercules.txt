@@ -1,0 +1,6 @@
+TITLE|The Labours of Hercules
+YEAR|1947
+TYPE|Stories
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|

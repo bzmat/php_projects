@@ -1,0 +1,6 @@
+TITLE|And Then There Were None
+YEAR|1939
+TYPE|Novel
+BEST|yes
+DETECTIVE|
+METHOD|Blow to the Head,Gunshot,Poison,Strangling

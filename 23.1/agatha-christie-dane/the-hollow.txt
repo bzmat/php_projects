@@ -1,0 +1,6 @@
+TITLE|The Hollow
+YEAR|1946
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Gunshot

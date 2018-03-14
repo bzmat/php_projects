@@ -1,0 +1,6 @@
+TITLE|Nemesis
+YEAR|1971
+TYPE|Novel
+BEST|no
+DETECTIVE|Miss Marple
+METHOD|Falling/Being Pushed,Poison,Strangling

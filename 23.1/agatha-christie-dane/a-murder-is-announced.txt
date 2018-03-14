@@ -1,0 +1,6 @@
+TITLE|A Murder Is Announced
+YEAR|1950
+TYPE|Novel
+BEST|yes
+DETECTIVE|Miss Marple
+METHOD|Gunshot,Strangling

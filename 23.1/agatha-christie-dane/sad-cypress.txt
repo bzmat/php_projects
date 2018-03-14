@@ -1,0 +1,6 @@
+TITLE|Sad Cypress
+YEAR|1940
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Poison

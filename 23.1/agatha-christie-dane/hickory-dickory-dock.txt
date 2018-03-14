@@ -1,0 +1,6 @@
+TITLE|Hickory Dickory Dock
+YEAR|1955
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Blow to the Head,Poison

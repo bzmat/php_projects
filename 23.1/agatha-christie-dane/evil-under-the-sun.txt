@@ -1,0 +1,6 @@
+TITLE|Evil Under the Sun
+YEAR|1941
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Strangling

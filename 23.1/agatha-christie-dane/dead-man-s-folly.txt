@@ -1,0 +1,6 @@
+TITLE|Dead Man's Folly
+YEAR|1956
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Drowning,Strangling

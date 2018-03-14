@@ -1,0 +1,6 @@
+TITLE|One, Two, Buckle My Shoe
+YEAR|1940
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Blow to the Head,Gunshot,Poison

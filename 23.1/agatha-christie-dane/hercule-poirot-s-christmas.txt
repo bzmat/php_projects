@@ -1,0 +1,6 @@
+TITLE|Hercule Poirot's Christmas
+YEAR|1938
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Throatcut

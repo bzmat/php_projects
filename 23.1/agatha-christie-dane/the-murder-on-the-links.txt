@@ -1,0 +1,6 @@
+TITLE|The Murder on the Links
+YEAR|1923
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Stabbing

@@ -1,0 +1,6 @@
+TITLE|Dumb Witness
+YEAR|1937
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Poison

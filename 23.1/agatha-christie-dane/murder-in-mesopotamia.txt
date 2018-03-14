@@ -1,0 +1,6 @@
+TITLE|Murder in Mesopotamia
+YEAR|1936
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Blow to the Head,Poison

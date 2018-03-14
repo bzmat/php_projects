@@ -1,0 +1,6 @@
+TITLE|Sparkling Cyanide
+YEAR|1945
+TYPE|Novel
+BEST|no
+DETECTIVE|
+METHOD|Poison

@@ -1,0 +1,6 @@
+TITLE|Endless Night
+YEAR|1967
+TYPE|Novel
+BEST|no
+DETECTIVE|
+METHOD|Falling/Being Pushed,Poison

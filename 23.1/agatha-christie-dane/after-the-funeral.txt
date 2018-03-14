@@ -1,0 +1,6 @@
+TITLE|After the Funeral
+YEAR|1953
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Poison

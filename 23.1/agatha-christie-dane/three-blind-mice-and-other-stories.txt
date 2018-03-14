@@ -1,0 +1,6 @@
+TITLE|Three Blind Mice and Other Stories
+YEAR|1950
+TYPE|Stories
+BEST|no
+DETECTIVE|
+METHOD|

@@ -1,0 +1,6 @@
+TITLE|Ordeal by Innocence
+YEAR|1958
+TYPE|Novel
+BEST|yes
+DETECTIVE|
+METHOD|Blow to the Head,Stabbing

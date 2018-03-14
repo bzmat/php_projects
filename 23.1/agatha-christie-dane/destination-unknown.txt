@@ -1,0 +1,6 @@
+TITLE|Destination Unknown
+YEAR|1954
+TYPE|Novel
+BEST|no
+DETECTIVE|
+METHOD|Poison

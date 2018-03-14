@@ -1,0 +1,6 @@
+TITLE|Elephants Can Remember
+YEAR|1972
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Falling/Being Pushed,Gunshot

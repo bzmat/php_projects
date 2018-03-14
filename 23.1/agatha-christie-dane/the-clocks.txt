@@ -1,0 +1,6 @@
+TITLE|The Clocks
+YEAR|1963
+TYPE|Novel
+BEST|no
+DETECTIVE|Hercule Poirot
+METHOD|Stabbing,Strangling

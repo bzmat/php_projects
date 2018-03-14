@@ -1,0 +1,6 @@
+TITLE|The Thirteen Problems
+YEAR|1932
+TYPE|Stories
+BEST|no
+DETECTIVE|Miss Marple
+METHOD|

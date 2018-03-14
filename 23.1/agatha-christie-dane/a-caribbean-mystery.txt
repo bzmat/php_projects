@@ -1,0 +1,6 @@
+TITLE|A Caribbean Mystery
+YEAR|1964
+TYPE|Novel
+BEST|no
+DETECTIVE|Miss Marple
+METHOD|Poison
