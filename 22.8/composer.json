@@ -1,0 +1,12 @@
+{
+	"require":{
+		"smarty/smarty": "~3.1"
+
+	},
+
+	"autoload":{
+		"files":[
+			"vh-array.inc.php"	
+		]
+	}
+}
